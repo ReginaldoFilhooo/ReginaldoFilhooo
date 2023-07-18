@@ -1,7 +1,7 @@
 ### Iae!! Eu sou o Reginaldo Filho.
 
 - 🔭 Hoje estou estudando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando ADS
+- 🌱 Estudando Programação
 - 📫 Entre em contato comigo pelo email: reginaldopessoaf@gmail.com
 
 <div style="display: inline_block"><br>
